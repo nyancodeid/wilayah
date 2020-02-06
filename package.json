@@ -1,0 +1,25 @@
+{
+  "name": "app-api",
+  "version": "1.0.0",
+  "description": "Wilayah API Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/producer.js",
+    "deploy": "echo 'area.nyandev.id' > dist/CNAME && git subtree push --prefix dist origin gh-pages"
+  },
+  "keywords": [
+    "wilayah",
+    "wilayah",
+    "administratif",
+    "wilayah",
+    "indonesia"
+  ],
+  "author": "Ryan Aunur Rassyid",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "md5": "^2.2.1",
+    "rimraf": "^3.0.1",
+    "underscore": "^1.9.1"
+  }
+}
