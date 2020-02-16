@@ -1,1 +1,1 @@
-{"id":42481,"kecid":3388,"name":"Bandung","hash":"ff591ccf291dce5d467a0fe78701595b"}
+{"id":42481,"kecid":3388,"name":"Bandung","hash":"ff591ccf291dce5d467a0fe78701595b","related":{"kecamatan":{"id":3388,"nama":"Diwek"},"kabupaten":{"id":235,"nama":"Kabupaten Jombang","ibukota":"Jombang"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

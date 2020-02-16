@@ -1,1 +1,1 @@
-{"id":17550,"kecid":1234,"name":"Teluk Bengkulu","hash":"5f2564ad2a658e46abd0fa7a70d80caa"}
+{"id":17550,"kecid":1234,"name":"Teluk Bengkulu","hash":"5f2564ad2a658e46abd0fa7a70d80caa","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

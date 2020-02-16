@@ -1,1 +1,1 @@
-{"id":47865,"kecid":3781,"name":"Barang","hash":"af88a4c23a2139d5e632843dc339d88e"}
+{"id":47865,"kecid":3781,"name":"Barang","hash":"af88a4c23a2139d5e632843dc339d88e","related":{"kecamatan":{"id":3781,"nama":"Panggul"},"kabupaten":{"id":254,"nama":"Kabupaten Trenggalek","ibukota":"Trenggalek"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

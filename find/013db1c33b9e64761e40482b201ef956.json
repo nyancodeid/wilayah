@@ -1,1 +1,1 @@
-{"id":41521,"kecid":3306,"name":"Pelem","hash":"013db1c33b9e64761e40482b201ef956"}
+{"id":41521,"kecid":3306,"name":"Pelem","hash":"013db1c33b9e64761e40482b201ef956","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

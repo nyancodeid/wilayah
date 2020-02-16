@@ -1,1 +1,1 @@
-{"id":111,"kecid":5,"name":"Bukit Jaya","hash":"1c167477380c7e5c99d6da35445feed2"}
+{"id":111,"kecid":5,"name":"Bukit Jaya","hash":"1c167477380c7e5c99d6da35445feed2","related":{"kecamatan":{"id":5,"nama":"Meureubo"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}

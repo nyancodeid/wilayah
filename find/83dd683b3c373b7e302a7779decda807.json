@@ -1,1 +1,1 @@
-{"id":8765,"kecid":456,"name":"Sirete","hash":"83dd683b3c373b7e302a7779decda807"}
+{"id":8765,"kecid":456,"name":"Sirete","hash":"83dd683b3c373b7e302a7779decda807","related":{"kecamatan":{"id":456,"nama":"Gido"},"kabupaten":{"id":35,"nama":"Kabupaten Nias","ibukota":"Gunungsitoli"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

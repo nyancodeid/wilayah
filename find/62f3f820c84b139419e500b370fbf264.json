@@ -1,1 +1,1 @@
-{"id":41523,"kecid":3306,"name":"Punggur","hash":"62f3f820c84b139419e500b370fbf264"}
+{"id":41523,"kecid":3306,"name":"Punggur","hash":"62f3f820c84b139419e500b370fbf264","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

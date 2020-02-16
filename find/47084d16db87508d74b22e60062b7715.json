@@ -1,1 +1,1 @@
-{"id":65039,"kecid":5340,"name":"Kendek","hash":"47084d16db87508d74b22e60062b7715"}
+{"id":65039,"kecid":5340,"name":"Kendek","hash":"47084d16db87508d74b22e60062b7715","related":{"kecamatan":{"id":5340,"nama":"Banggai Utara"},"kabupaten":{"id":388,"nama":"Kabupaten Banggai Laut","ibukota":"Banggai"},"provinsi":{"id":26,"nama":"Sulawesi Tengah"}}}

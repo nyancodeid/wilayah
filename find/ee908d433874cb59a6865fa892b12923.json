@@ -1,1 +1,1 @@
-{"id":68632,"kecid":5678,"name":"Pulau Harapan","hash":"ee908d433874cb59a6865fa892b12923"}
+{"id":68632,"kecid":5678,"name":"Pulau Harapan","hash":"ee908d433874cb59a6865fa892b12923","related":{"kecamatan":{"id":5678,"nama":"Pulau Sembilan"},"kabupaten":{"id":414,"nama":"Kabupaten Sinjai","ibukota":"Sinjai"},"provinsi":{"id":27,"nama":"Sulawesi Selatan"}}}

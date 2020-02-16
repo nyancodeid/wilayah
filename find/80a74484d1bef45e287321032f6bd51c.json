@@ -1,1 +1,1 @@
-{"id":10001,"kecid":528,"name":"Pasar Sayur Matinggi","hash":"80a74484d1bef45e287321032f6bd51c"}
+{"id":10001,"kecid":528,"name":"Pasar Sayur Matinggi","hash":"80a74484d1bef45e287321032f6bd51c","related":{"kecamatan":{"id":528,"nama":"Dolok Sigompulon"},"kabupaten":{"id":40,"nama":"Kabupaten Padang Lawas Utara","ibukota":"Gunung Tua"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

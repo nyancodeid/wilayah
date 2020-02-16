@@ -1,1 +1,1 @@
-{"id":40,"kecid":2,"name":"Rambong","hash":"2d23b85dccd0d41d46ec23dbfc7b6769"}
+{"id":40,"kecid":2,"name":"Rambong","hash":"2d23b85dccd0d41d46ec23dbfc7b6769","related":{"kecamatan":{"id":2,"nama":"Bubon"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":1238,"kecid":55,"name":"Kampung Baru","hash":"45215e643446a4f66ddf73e20f6fe95f"}
+{"id":1238,"kecid":55,"name":"Kampung Baru","hash":"45215e643446a4f66ddf73e20f6fe95f","related":{"kecamatan":{"id":55,"nama":"Bakongan Timur"},"kabupaten":{"id":5,"nama":"Kabupaten Aceh Selatan","ibukota":"Tapak Tuan"},"provinsi":{"id":1,"nama":"Aceh"}}}

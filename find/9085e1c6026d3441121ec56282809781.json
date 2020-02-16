@@ -1,1 +1,1 @@
-{"id":38429,"kecid":3020,"name":"Kunden","hash":"9085e1c6026d3441121ec56282809781"}
+{"id":38429,"kecid":3020,"name":"Kunden","hash":"9085e1c6026d3441121ec56282809781","related":{"kecamatan":{"id":3020,"nama":"Bulu"},"kabupaten":{"id":212,"nama":"Kabupaten Sukoharjo","ibukota":"Sukoharjo"},"provinsi":{"id":13,"nama":"Jawa Tengah"}}}

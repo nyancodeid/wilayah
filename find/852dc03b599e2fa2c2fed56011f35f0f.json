@@ -1,1 +1,1 @@
-{"id":12247,"kecid":684,"name":"Gedung Johor","hash":"852dc03b599e2fa2c2fed56011f35f0f"}
+{"id":12247,"kecid":684,"name":"Gedung Johor","hash":"852dc03b599e2fa2c2fed56011f35f0f","related":{"kecamatan":{"id":684,"nama":"Medan Johor"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

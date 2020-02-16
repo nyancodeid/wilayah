@@ -1,1 +1,1 @@
-{"id":66080,"kecid":5432,"name":"Karawana","hash":"42d980de90c063bc9e2fdb3e129e2145"}
+{"id":66080,"kecid":5432,"name":"Karawana","hash":"42d980de90c063bc9e2fdb3e129e2145","related":{"kecamatan":{"id":5432,"nama":"Dolo"},"kabupaten":{"id":395,"nama":"Kabupaten Sigi","ibukota":"Sigi Biromaru"},"provinsi":{"id":26,"nama":"Sulawesi Tengah"}}}

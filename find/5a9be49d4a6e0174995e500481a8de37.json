@@ -1,1 +1,1 @@
-{"id":2467,"kecid":123,"name":"Kampung Baru","hash":"5a9be49d4a6e0174995e500481a8de37"}
+{"id":2467,"kecid":123,"name":"Kampung Baru","hash":"5a9be49d4a6e0174995e500481a8de37","related":{"kecamatan":{"id":123,"nama":"Semadam"},"kabupaten":{"id":9,"nama":"Kabupaten Aceh Tenggara","ibukota":"Kutacane"},"provinsi":{"id":1,"nama":"Aceh"}}}

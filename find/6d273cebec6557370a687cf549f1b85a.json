@@ -1,1 +1,1 @@
-{"id":56,"kecid":3,"name":"Pasar Aceh","hash":"6d273cebec6557370a687cf549f1b85a"}
+{"id":56,"kecid":3,"name":"Pasar Aceh","hash":"6d273cebec6557370a687cf549f1b85a","related":{"kecamatan":{"id":3,"nama":"Johan Pahlawan"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":50184,"kecid":4000,"name":"Tanah Merah","hash":"84a0870d7a39398a563d23d71be976d4"}
+{"id":50184,"kecid":4000,"name":"Tanah Merah","hash":"84a0870d7a39398a563d23d71be976d4","related":{"kecamatan":{"id":4000,"nama":"Sepatan Timur"},"kabupaten":{"id":269,"nama":"Kabupaten Tangerang","ibukota":"Tigaraksa"},"provinsi":{"id":16,"nama":"Banten"}}}

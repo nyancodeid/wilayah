@@ -1,1 +1,1 @@
-{"id":7000,"kecid":338,"name":"Mesjid","hash":"6c21d5af3bb2e465d40f82be66771217"}
+{"id":7000,"kecid":338,"name":"Mesjid","hash":"6c21d5af3bb2e465d40f82be66771217","related":{"kecamatan":{"id":338,"nama":"Batang Kuis"},"kabupaten":{"id":27,"nama":"Kabupaten Deli Serdang","ibukota":"Lubuk Pakam"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

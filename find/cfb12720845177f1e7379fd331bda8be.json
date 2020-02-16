@@ -1,1 +1,1 @@
-{"id":2,"kecid":1,"name":"Alue Batee","hash":"cfb12720845177f1e7379fd331bda8be"}
+{"id":2,"kecid":1,"name":"Alue Batee","hash":"cfb12720845177f1e7379fd331bda8be","related":{"kecamatan":{"id":1,"nama":"Arongan Lambalek"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":12274,"kecid":687,"name":"Kampung Baru","hash":"ec567e74a040f26262588f69b8753abf"}
+{"id":12274,"kecid":687,"name":"Kampung Baru","hash":"ec567e74a040f26262588f69b8753abf","related":{"kecamatan":{"id":687,"nama":"Medan Maimun"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

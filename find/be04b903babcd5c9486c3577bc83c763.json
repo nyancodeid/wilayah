@@ -1,1 +1,1 @@
-{"id":17519,"kecid":1233,"name":"Kota Gading","hash":"be04b903babcd5c9486c3577bc83c763"}
+{"id":17519,"kecid":1233,"name":"Kota Gading","hash":"be04b903babcd5c9486c3577bc83c763","related":{"kecamatan":{"id":1233,"nama":"Tebing Tinggi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

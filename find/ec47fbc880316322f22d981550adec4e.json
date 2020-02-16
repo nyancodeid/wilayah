@@ -1,1 +1,1 @@
-{"id":48171,"kecid":3801,"name":"Penambangan","hash":"ec47fbc880316322f22d981550adec4e"}
+{"id":48171,"kecid":3801,"name":"Penambangan","hash":"ec47fbc880316322f22d981550adec4e","related":{"kecamatan":{"id":3801,"nama":"Semanding"},"kabupaten":{"id":255,"nama":"Kabupaten Tuban","ibukota":"Tuban"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

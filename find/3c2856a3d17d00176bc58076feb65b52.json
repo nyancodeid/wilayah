@@ -1,1 +1,1 @@
-{"id":49655,"kecid":3950,"name":"Bandung","hash":"3c2856a3d17d00176bc58076feb65b52"}
+{"id":49655,"kecid":3950,"name":"Bandung","hash":"3c2856a3d17d00176bc58076feb65b52","related":{"kecamatan":{"id":3950,"nama":"Bandung"},"kabupaten":{"id":268,"nama":"Kabupaten Serang","ibukota":"Serang"},"provinsi":{"id":16,"nama":"Banten"}}}

@@ -1,1 +1,1 @@
-{"id":12246,"kecid":683,"name":"Tanjung Gusta","hash":"c20bf01fff4214614da24a439321c328"}
+{"id":12246,"kecid":683,"name":"Tanjung Gusta","hash":"c20bf01fff4214614da24a439321c328","related":{"kecamatan":{"id":683,"nama":"Medan Helvetia"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

@@ -1,1 +1,1 @@
-{"id":42193,"kecid":3354,"name":"Kepuhklagen","hash":"849ed8c69e2217f74673692f811c848e"}
+{"id":42193,"kecid":3354,"name":"Kepuhklagen","hash":"849ed8c69e2217f74673692f811c848e","related":{"kecamatan":{"id":3354,"nama":"Wringin Anom"},"kabupaten":{"id":233,"nama":"Kabupaten Gresik","ibukota":"Gresik"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

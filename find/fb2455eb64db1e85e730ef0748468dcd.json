@@ -1,1 +1,1 @@
-{"id":8506,"kecid":441,"name":"Taluk","hash":"fb2455eb64db1e85e730ef0748468dcd"}
+{"id":8506,"kecid":441,"name":"Taluk","hash":"fb2455eb64db1e85e730ef0748468dcd","related":{"kecamatan":{"id":441,"nama":"Natal"},"kabupaten":{"id":34,"nama":"Kabupaten Mandailing Natal","ibukota":"Panyabungan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

@@ -1,1 +1,1 @@
-{"id":40007,"kecid":3142,"name":"Bandung","hash":"b0ffcb1dc2387b6aa79e5e506b31e9ba"}
+{"id":40007,"kecid":3142,"name":"Bandung","hash":"b0ffcb1dc2387b6aa79e5e506b31e9ba","related":{"kecamatan":{"id":3142,"nama":"Tegal Selatan"},"kabupaten":{"id":222,"nama":"Kota Tegal","ibukota":"Tegal"},"provinsi":{"id":13,"nama":"Jawa Tengah"}}}

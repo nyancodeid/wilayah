@@ -1,1 +1,1 @@
-{"id":26014,"kecid":2000,"name":"Tanjungbaru","hash":"15fbbaeaee923d30c3914c5ffa380260"}
+{"id":26014,"kecid":2000,"name":"Tanjungbaru","hash":"15fbbaeaee923d30c3914c5ffa380260","related":{"kecamatan":{"id":2000,"nama":"Cikarang Timur"},"kabupaten":{"id":163,"nama":"Kabupaten Bekasi","ibukota":"Cikarang"},"provinsi":{"id":12,"nama":"Jawa Barat"}}}

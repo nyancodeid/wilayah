@@ -1,1 +1,1 @@
-{"id":2468,"kecid":123,"name":"Kebun Sere","hash":"f755cb335ac82c36336db55dafa18a4f"}
+{"id":2468,"kecid":123,"name":"Kebun Sere","hash":"f755cb335ac82c36336db55dafa18a4f","related":{"kecamatan":{"id":123,"nama":"Semadam"},"kabupaten":{"id":9,"nama":"Kabupaten Aceh Tenggara","ibukota":"Kutacane"},"provinsi":{"id":1,"nama":"Aceh"}}}

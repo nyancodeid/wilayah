@@ -1,1 +1,1 @@
-{"id":68634,"kecid":5678,"name":"Pulau Persatuan","hash":"7d13ed6deebd2f12ea6279ca0b333669"}
+{"id":68634,"kecid":5678,"name":"Pulau Persatuan","hash":"7d13ed6deebd2f12ea6279ca0b333669","related":{"kecamatan":{"id":5678,"nama":"Pulau Sembilan"},"kabupaten":{"id":414,"nama":"Kabupaten Sinjai","ibukota":"Sinjai"},"provinsi":{"id":27,"nama":"Sulawesi Selatan"}}}

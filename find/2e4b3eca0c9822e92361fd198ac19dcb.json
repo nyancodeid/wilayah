@@ -1,1 +1,1 @@
-{"id":26015,"kecid":2001,"name":"Cikarang Kota","hash":"2e4b3eca0c9822e92361fd198ac19dcb"}
+{"id":26015,"kecid":2001,"name":"Cikarang Kota","hash":"2e4b3eca0c9822e92361fd198ac19dcb","related":{"kecamatan":{"id":2001,"nama":"Cikarang Utara"},"kabupaten":{"id":163,"nama":"Kabupaten Bekasi","ibukota":"Cikarang"},"provinsi":{"id":12,"nama":"Jawa Barat"}}}

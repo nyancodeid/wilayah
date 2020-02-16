@@ -1,1 +1,1 @@
-{"id":45440,"kecid":3605,"name":"Kledung","hash":"cf622ab0ecccaddba3f1ad08841d259e"}
+{"id":45440,"kecid":3605,"name":"Kledung","hash":"cf622ab0ecccaddba3f1ad08841d259e","related":{"kecamatan":{"id":3605,"nama":"Bandar"},"kabupaten":{"id":245,"nama":"Kabupaten Pacitan","ibukota":"Pacitan"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

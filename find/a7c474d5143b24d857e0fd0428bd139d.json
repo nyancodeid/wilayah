@@ -1,1 +1,1 @@
-{"id":1243,"kecid":55,"name":"Simpang","hash":"a7c474d5143b24d857e0fd0428bd139d"}
+{"id":1243,"kecid":55,"name":"Simpang","hash":"a7c474d5143b24d857e0fd0428bd139d","related":{"kecamatan":{"id":55,"nama":"Bakongan Timur"},"kabupaten":{"id":5,"nama":"Kabupaten Aceh Selatan","ibukota":"Tapak Tuan"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":7890,"kecid":395,"name":"Tanjung Medan","hash":"11a326d53ba635e2d51641b431bb6382"}
+{"id":7890,"kecid":395,"name":"Tanjung Medan","hash":"11a326d53ba635e2d51641b431bb6382","related":{"kecamatan":{"id":395,"nama":"Kampung Rakyat"},"kabupaten":{"id":31,"nama":"Kabupaten Labuhanbatu Selatan","ibukota":"Kota Pinang"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

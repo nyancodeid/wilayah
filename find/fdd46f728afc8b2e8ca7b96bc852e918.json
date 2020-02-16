@@ -1,1 +1,1 @@
-{"id":56880,"kecid":4632,"name":"Pemangkat Kota","hash":"fdd46f728afc8b2e8ca7b96bc852e918"}
+{"id":56880,"kecid":4632,"name":"Pemangkat Kota","hash":"fdd46f728afc8b2e8ca7b96bc852e918","related":{"kecamatan":{"id":4632,"nama":"Pemangkat"},"kabupaten":{"id":323,"nama":"Kabupaten Sambas","ibukota":"Sambas"},"provinsi":{"id":20,"nama":"Kalimantan Barat"}}}

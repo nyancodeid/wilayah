@@ -1,1 +1,1 @@
-{"id":3002,"kecid":148,"name":"Bukit Drien","hash":"1f8598d521cc3648d3ce46641c673554"}
+{"id":3002,"kecid":148,"name":"Bukit Drien","hash":"1f8598d521cc3648d3ce46641c673554","related":{"kecamatan":{"id":148,"nama":"Sungai Raya"},"kabupaten":{"id":10,"nama":"Kabupaten Aceh Timur","ibukota":"Langsa"},"provinsi":{"id":1,"nama":"Aceh"}}}

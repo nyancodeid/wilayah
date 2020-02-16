@@ -1,1 +1,1 @@
-{"id":12460,"kecid":709,"name":"Kebun Sayur","hash":"e96d34effdb8ca676940305ce2ae6c82"}
+{"id":12460,"kecid":709,"name":"Kebun Sayur","hash":"e96d34effdb8ca676940305ce2ae6c82","related":{"kecamatan":{"id":709,"nama":"Siantar Timur"},"kabupaten":{"id":53,"nama":"Kota Pematangsiantar","ibukota":"Pematangsiantar"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

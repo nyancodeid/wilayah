@@ -1,1 +1,1 @@
-{"id":17545,"kecid":1234,"name":"Muara Kalangan","hash":"9a0b4561e4fdf6fe88800e4f173f4896"}
+{"id":17545,"kecid":1234,"name":"Muara Kalangan","hash":"9a0b4561e4fdf6fe88800e4f173f4896","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

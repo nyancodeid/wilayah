@@ -1,1 +1,1 @@
-{"id":17541,"kecid":1234,"name":"Kunduran","hash":"ffe65498a6541e2f647e718264325b11"}
+{"id":17541,"kecid":1234,"name":"Kunduran","hash":"ffe65498a6541e2f647e718264325b11","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

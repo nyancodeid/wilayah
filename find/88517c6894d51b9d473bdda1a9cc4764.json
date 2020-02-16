@@ -1,1 +1,1 @@
-{"id":17539,"kecid":1234,"name":"Batu Lintang","hash":"88517c6894d51b9d473bdda1a9cc4764"}
+{"id":17539,"kecid":1234,"name":"Batu Lintang","hash":"88517c6894d51b9d473bdda1a9cc4764","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

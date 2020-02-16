@@ -1,1 +1,1 @@
-{"id":12264,"kecid":685,"name":"Teladan Timur","hash":"46ccd865bcd59ca26e01f8d6c2f100fc"}
+{"id":12264,"kecid":685,"name":"Teladan Timur","hash":"46ccd865bcd59ca26e01f8d6c2f100fc","related":{"kecamatan":{"id":685,"nama":"Medan Kota"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

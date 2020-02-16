@@ -1,1 +1,1 @@
-{"id":41525,"kecid":3306,"name":"Sedahkidul","hash":"cba02e323e3271d541185d36049a9904"}
+{"id":41525,"kecid":3306,"name":"Sedahkidul","hash":"cba02e323e3271d541185d36049a9904","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

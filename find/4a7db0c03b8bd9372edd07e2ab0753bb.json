@@ -1,1 +1,1 @@
-{"id":10,"kecid":1,"name":"Karang Hampa","hash":"4a7db0c03b8bd9372edd07e2ab0753bb"}
+{"id":10,"kecid":1,"name":"Karang Hampa","hash":"4a7db0c03b8bd9372edd07e2ab0753bb","related":{"kecamatan":{"id":1,"nama":"Arongan Lambalek"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}

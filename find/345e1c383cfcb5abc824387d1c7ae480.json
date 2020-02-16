@@ -1,1 +1,1 @@
-{"id":2483,"kecid":123,"name":"Simpang Semadam","hash":"345e1c383cfcb5abc824387d1c7ae480"}
+{"id":2483,"kecid":123,"name":"Simpang Semadam","hash":"345e1c383cfcb5abc824387d1c7ae480","related":{"kecamatan":{"id":123,"nama":"Semadam"},"kabupaten":{"id":9,"nama":"Kabupaten Aceh Tenggara","ibukota":"Kutacane"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":17549,"kecid":1234,"name":"Tanjung Agung","hash":"e7f036881f8f126b2e6a47131a2b6a69"}
+{"id":17549,"kecid":1234,"name":"Tanjung Agung","hash":"e7f036881f8f126b2e6a47131a2b6a69","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

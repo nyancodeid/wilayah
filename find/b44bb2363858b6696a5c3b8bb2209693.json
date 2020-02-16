@@ -1,1 +1,1 @@
-{"id":64031,"kecid":5252,"name":"Buku","hash":"b44bb2363858b6696a5c3b8bb2209693"}
+{"id":64031,"kecid":5252,"name":"Buku","hash":"b44bb2363858b6696a5c3b8bb2209693","related":{"kecamatan":{"id":5252,"nama":"Belang"},"kabupaten":{"id":380,"nama":"Kabupaten Minahasa Tenggara","ibukota":"Ratahan"},"provinsi":{"id":25,"nama":"Sulawesi Utara"}}}

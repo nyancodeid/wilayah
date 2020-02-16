@@ -1,1 +1,1 @@
-{"id":250,"kecid":10,"name":"Jawa","hash":"3adb8f8dbcb05129d0578c3d144eb8a8"}
+{"id":250,"kecid":10,"name":"Jawa","hash":"3adb8f8dbcb05129d0578c3d144eb8a8","related":{"kecamatan":{"id":10,"nama":"Woyla"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}
