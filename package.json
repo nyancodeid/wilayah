@@ -4,7 +4,7 @@
   "description": "Wilayah API Indonesia",
   "main": "index.js",
   "scripts": {
-    "build": "node src/producer.js",
+    "build": "node src/index.js",
     "deploy": "echo 'area.nyandev.id' > dist/CNAME && git subtree push --prefix dist origin gh-pages"
   },
   "keywords": [
@@ -21,6 +21,9 @@
     "dotenv-parse-variables": "^0.2.3",
     "fs-extra": "^8.1.0",
     "md5": "^2.2.1",
+    "ora": "^4.0.3",
+    "p-limit": "^2.2.2",
+    "p-queue": "^6.2.1",
     "rimraf": "^3.0.1",
     "underscore": "^1.9.1"
   }

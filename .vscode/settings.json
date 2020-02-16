@@ -1,0 +1,6 @@
+{
+  "files.watcherExclude": {
+    "**/dist/find/**": true,
+    "**/dist/provinsi/**": true
+  }
+}

@@ -1,0 +1,60 @@
+Arguments: 
+  /usr/local/bin/node /home/ryanaunur/.yarn/bin/yarn.js add pc-queue
+
+PATH: 
+  /home/ryanaunur/.yarn/bin:/home/ryanaunur/.config/yarn/global/node_modules/.bin:/home/ryanaunur/.sdkman/candidates/gradle/current/bin:/opt/GitHub Desktop:/home/ryanaunur/.poetry/bin:/home/ryanaunur/.local/bin:/opt/GitHub Desktop:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/jdk1.8.0_211/bin:/usr/lib/jvm/jdk1.8.0_211/db/bin:/usr/lib/jvm/jdk1.8.0_211/jre/bin:/home/Android/Sdk/build-tools/28.0.3:/usr/lib/dart/bin:/home/ryanaunur/development/flutter/bin:/home/ryanaunur/Android/Sdk/emulator:/home/ryanaunur/Android/Sdk/tools:/home/ryanaunur/Android/Sdk/tools/bin:/home/ryanaunur/Android/Sdk/platform-tools:/home/ryanaunur/development/flutter/bin:/home/ryanaunur/.composer/vendor/bin:/usr/local/go/bin:/home/ryanaunur/.poetry/bin:/home/ryanaunur/.pub-cache/bin:/home/ryanaunur/.fzf/bin
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  12.16.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/pc-queue: Not found
+      at Request.params.callback [as _callback] (/home/ryanaunur/.yarn/lib/cli.js:66975:18)
+      at Request.self.callback (/home/ryanaunur/.yarn/lib/cli.js:140727:22)
+      at Request.emit (events.js:321:20)
+      at Request.<anonymous> (/home/ryanaunur/.yarn/lib/cli.js:141699:10)
+      at Request.emit (events.js:321:20)
+      at IncomingMessage.<anonymous> (/home/ryanaunur/.yarn/lib/cli.js:141621:12)
+      at Object.onceWrapper (events.js:427:28)
+      at IncomingMessage.emit (events.js:333:22)
+      at endReadableNT (_stream_readable.js:1204:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  {
+    "name": "app-api",
+    "version": "1.0.0",
+    "description": "Wilayah API Indonesia",
+    "main": "index.js",
+    "scripts": {
+      "build": "node src/producer.js",
+      "deploy": "echo 'area.nyandev.id' > dist/CNAME && git subtree push --prefix dist origin gh-pages"
+    },
+    "keywords": [
+      "wilayah",
+      "wilayah",
+      "administratif",
+      "wilayah",
+      "indonesia"
+    ],
+    "author": "Ryan Aunur Rassyid",
+    "license": "MIT",
+    "dependencies": {
+      "fs-extra": "^8.1.0",
+      "md5": "^2.2.1",
+      "rimraf": "^3.0.1",
+      "underscore": "^1.9.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
