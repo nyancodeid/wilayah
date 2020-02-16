@@ -1,1 +1,1 @@
-{"id":17543,"kecid":1234,"name":"Lubuk Puding Lama","hash":"01cf726577cf8dd2e34ce4be5badaaf1"}
+{"id":17543,"kecid":1234,"name":"Lubuk Puding Lama","hash":"01cf726577cf8dd2e34ce4be5badaaf1","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

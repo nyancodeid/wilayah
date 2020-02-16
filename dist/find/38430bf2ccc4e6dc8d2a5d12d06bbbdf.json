@@ -1,1 +1,1 @@
-{"id":12256,"kecid":685,"name":"Pasar Baru","hash":"38430bf2ccc4e6dc8d2a5d12d06bbbdf"}
+{"id":12256,"kecid":685,"name":"Pasar Baru","hash":"38430bf2ccc4e6dc8d2a5d12d06bbbdf","related":{"kecamatan":{"id":685,"nama":"Medan Kota"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

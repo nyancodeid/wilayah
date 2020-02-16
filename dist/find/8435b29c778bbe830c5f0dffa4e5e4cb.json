@@ -1,1 +1,1 @@
-{"id":53600,"kecid":4328,"name":"Barang","hash":"8435b29c778bbe830c5f0dffa4e5e4cb"}
+{"id":53600,"kecid":4328,"name":"Barang","hash":"8435b29c778bbe830c5f0dffa4e5e4cb","related":{"kecamatan":{"id":4328,"nama":"Cibal"},"kabupaten":{"id":300,"nama":"Kabupaten Manggarai","ibukota":"Ruteng"},"provinsi":{"id":19,"nama":"Nusa Tenggara Timur"}}}

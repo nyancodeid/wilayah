@@ -1,1 +1,1 @@
-{"id":41517,"kecid":3306,"name":"Gapluk","hash":"abb08eb865e9c8b2ef6d00f32826bd74"}
+{"id":41517,"kecid":3306,"name":"Gapluk","hash":"abb08eb865e9c8b2ef6d00f32826bd74","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

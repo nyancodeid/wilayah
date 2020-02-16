@@ -1,1 +1,1 @@
-{"id":66081,"kecid":5432,"name":"Kota Pulu","hash":"cff249164e576f12f43e43ce514df6a7"}
+{"id":66081,"kecid":5432,"name":"Kota Pulu","hash":"cff249164e576f12f43e43ce514df6a7","related":{"kecamatan":{"id":5432,"nama":"Dolo"},"kabupaten":{"id":395,"nama":"Kabupaten Sigi","ibukota":"Sigi Biromaru"},"provinsi":{"id":26,"nama":"Sulawesi Tengah"}}}

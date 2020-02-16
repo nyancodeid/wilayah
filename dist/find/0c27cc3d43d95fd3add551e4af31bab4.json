@@ -1,1 +1,1 @@
-{"id":13485,"kecid":888,"name":"Pasar Baru","hash":"0c27cc3d43d95fd3add551e4af31bab4"}
+{"id":13485,"kecid":888,"name":"Pasar Baru","hash":"0c27cc3d43d95fd3add551e4af31bab4","related":{"kecamatan":{"id":888,"nama":"Padang Panjang Barat"},"kabupaten":{"id":71,"nama":"Kota Padang Panjang","ibukota":"Padang Panjang"},"provinsi":{"id":3,"nama":"Sumatra Barat"}}}

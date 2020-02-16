@@ -1,1 +1,1 @@
-{"id":45123,"kecid":3579,"name":"Bandung","hash":"b99cb8f46b6efda8db2b9865f7c3f4de"}
+{"id":45123,"kecid":3579,"name":"Bandung","hash":"b99cb8f46b6efda8db2b9865f7c3f4de","related":{"kecamatan":{"id":3579,"nama":"Prambon"},"kabupaten":{"id":243,"nama":"Kabupaten Nganjuk","ibukota":"Nganjuk"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

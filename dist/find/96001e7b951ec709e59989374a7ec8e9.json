@@ -1,1 +1,1 @@
-{"id":12550,"kecid":725,"name":"Bandar Utama","hash":"96001e7b951ec709e59989374a7ec8e9"}
+{"id":12550,"kecid":725,"name":"Bandar Utama","hash":"96001e7b951ec709e59989374a7ec8e9","related":{"kecamatan":{"id":725,"nama":"Tebing Tinggi Kota"},"kabupaten":{"id":56,"nama":"Kota Tebing Tinggi","ibukota":"Tebing Tinggi"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

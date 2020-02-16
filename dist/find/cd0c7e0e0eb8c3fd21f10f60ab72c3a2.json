@@ -1,1 +1,1 @@
-{"id":42002,"kecid":3343,"name":"Padang Bandung","hash":"cd0c7e0e0eb8c3fd21f10f60ab72c3a2"}
+{"id":42002,"kecid":3343,"name":"Padang Bandung","hash":"cd0c7e0e0eb8c3fd21f10f60ab72c3a2","related":{"kecamatan":{"id":3343,"nama":"Dukun"},"kabupaten":{"id":233,"nama":"Kabupaten Gresik","ibukota":"Gresik"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

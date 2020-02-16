@@ -1,1 +1,1 @@
-{"id":65534,"kecid":5382,"name":"Lembo Baru","hash":"ac5920a9fc8d6cfd40e7b6bc8e1b1874"}
+{"id":65534,"kecid":5382,"name":"Lembo Baru","hash":"ac5920a9fc8d6cfd40e7b6bc8e1b1874","related":{"kecamatan":{"id":5382,"nama":"Lembo"},"kabupaten":{"id":392,"nama":"Kabupaten Morowali Utara","ibukota":"Kolonodale"},"provinsi":{"id":26,"nama":"Sulawesi Tengah"}}}

@@ -1,1 +1,1 @@
-{"id":5051,"kecid":222,"name":"Simpang Jaya","hash":"80a783034d20fa059713998a824ae054"}
+{"id":5051,"kecid":222,"name":"Simpang Jaya","hash":"80a783034d20fa059713998a824ae054","related":{"kecamatan":{"id":222,"nama":"Tadu Raya"},"kabupaten":{"id":15,"nama":"Kabupaten Nagan Raya","ibukota":"Suka Makmue"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":40001,"kecid":3141,"name":"Kemandungan","hash":"dde5351fbd57e6555d22a498254026d1"}
+{"id":40001,"kecid":3141,"name":"Kemandungan","hash":"dde5351fbd57e6555d22a498254026d1","related":{"kecamatan":{"id":3141,"nama":"Tegal Barat"},"kabupaten":{"id":222,"nama":"Kota Tegal","ibukota":"Tegal"},"provinsi":{"id":13,"nama":"Jawa Tengah"}}}

@@ -1,1 +1,1 @@
-{"id":11120,"kecid":602,"name":"Perkebunan","hash":"821c52df3d44084275109bf0bed7a2bb"}
+{"id":11120,"kecid":602,"name":"Perkebunan","hash":"821c52df3d44084275109bf0bed7a2bb","related":{"kecamatan":{"id":602,"nama":"Angkola Sangkunur"},"kabupaten":{"id":45,"nama":"Kabupaten Tapanuli Selatan","ibukota":"Padang Sidempuan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

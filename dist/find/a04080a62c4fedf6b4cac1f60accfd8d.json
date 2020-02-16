@@ -1,1 +1,1 @@
-{"id":25970,"kecid":1995,"name":"Cibarusahkota","hash":"a04080a62c4fedf6b4cac1f60accfd8d"}
+{"id":25970,"kecid":1995,"name":"Cibarusahkota","hash":"a04080a62c4fedf6b4cac1f60accfd8d","related":{"kecamatan":{"id":1995,"nama":"Cibarusah"},"kabupaten":{"id":163,"nama":"Kabupaten Bekasi","ibukota":"Cikarang"},"provinsi":{"id":12,"nama":"Jawa Barat"}}}

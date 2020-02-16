@@ -1,1 +1,1 @@
-{"id":3000,"kecid":148,"name":"Alue Itam","hash":"fc643415c75c8ad878f59b6112e84196"}
+{"id":3000,"kecid":148,"name":"Alue Itam","hash":"fc643415c75c8ad878f59b6112e84196","related":{"kecamatan":{"id":148,"nama":"Sungai Raya"},"kabupaten":{"id":10,"nama":"Kabupaten Aceh Timur","ibukota":"Langsa"},"provinsi":{"id":1,"nama":"Aceh"}}}

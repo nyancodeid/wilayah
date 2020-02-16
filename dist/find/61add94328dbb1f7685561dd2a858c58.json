@@ -1,1 +1,1 @@
-{"id":2485,"kecid":123,"name":"Titi Pasir","hash":"61add94328dbb1f7685561dd2a858c58"}
+{"id":2485,"kecid":123,"name":"Titi Pasir","hash":"61add94328dbb1f7685561dd2a858c58","related":{"kecamatan":{"id":123,"nama":"Semadam"},"kabupaten":{"id":9,"nama":"Kabupaten Aceh Tenggara","ibukota":"Kutacane"},"provinsi":{"id":1,"nama":"Aceh"}}}

@@ -1,1 +1,1 @@
-{"id":7647,"kecid":378,"name":"Merek","hash":"4e99206760fcad4a18f128c0228dfd75"}
+{"id":7647,"kecid":378,"name":"Merek","hash":"4e99206760fcad4a18f128c0228dfd75","related":{"kecamatan":{"id":378,"nama":"Merek"},"kabupaten":{"id":29,"nama":"Kabupaten Karo","ibukota":"Kabanjahe"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

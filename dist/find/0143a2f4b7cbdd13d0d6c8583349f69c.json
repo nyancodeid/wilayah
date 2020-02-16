@@ -1,1 +1,1 @@
-{"id":42455,"kecid":3385,"name":"Tanjung Rejo","hash":"0143a2f4b7cbdd13d0d6c8583349f69c"}
+{"id":42455,"kecid":3385,"name":"Tanjung Rejo","hash":"0143a2f4b7cbdd13d0d6c8583349f69c","related":{"kecamatan":{"id":3385,"nama":"Wuluhan"},"kabupaten":{"id":234,"nama":"Kabupaten Jember","ibukota":"Jember"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

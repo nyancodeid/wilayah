@@ -1,1 +1,1 @@
-{"id":12257,"kecid":685,"name":"Pasar Merah Barat","hash":"3cb11463b9ef7a8196df732589662a5b"}
+{"id":12257,"kecid":685,"name":"Pasar Merah Barat","hash":"3cb11463b9ef7a8196df732589662a5b","related":{"kecamatan":{"id":685,"nama":"Medan Kota"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

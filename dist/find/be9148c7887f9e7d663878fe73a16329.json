@@ -1,1 +1,1 @@
-{"id":12254,"kecid":685,"name":"Mesjid","hash":"be9148c7887f9e7d663878fe73a16329"}
+{"id":12254,"kecid":685,"name":"Mesjid","hash":"be9148c7887f9e7d663878fe73a16329","related":{"kecamatan":{"id":685,"nama":"Medan Kota"},"kabupaten":{"id":51,"nama":"Kota Medan","ibukota":"Medan"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

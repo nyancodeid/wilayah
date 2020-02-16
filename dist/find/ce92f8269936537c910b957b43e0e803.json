@@ -1,1 +1,1 @@
-{"id":17546,"kecid":1234,"name":"Padang Tepong","hash":"ce92f8269936537c910b957b43e0e803"}
+{"id":17546,"kecid":1234,"name":"Padang Tepong","hash":"ce92f8269936537c910b957b43e0e803","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

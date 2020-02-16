@@ -1,1 +1,1 @@
-{"id":38291,"kecid":3008,"name":"Bandung","hash":"26b10d59f83d8f40bfbf56bacad03068"}
+{"id":38291,"kecid":3008,"name":"Bandung","hash":"26b10d59f83d8f40bfbf56bacad03068","related":{"kecamatan":{"id":3008,"nama":"Ngrampal"},"kabupaten":{"id":211,"nama":"Kabupaten Sragen","ibukota":"Sragen"},"provinsi":{"id":13,"nama":"Jawa Tengah"}}}

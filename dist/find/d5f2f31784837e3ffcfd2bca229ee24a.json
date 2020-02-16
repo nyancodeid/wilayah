@@ -1,1 +1,1 @@
-{"id":1000,"kecid":42,"name":"Rabo","hash":"d5f2f31784837e3ffcfd2bca229ee24a"}
+{"id":1000,"kecid":42,"name":"Rabo","hash":"d5f2f31784837e3ffcfd2bca229ee24a","related":{"kecamatan":{"id":42,"nama":"Seulimeum"},"kabupaten":{"id":3,"nama":"Kabupaten Aceh Besar","ibukota":"Jantho"},"provinsi":{"id":1,"nama":"Aceh"}}}

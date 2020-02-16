@@ -1,1 +1,1 @@
-{"id":41522,"kecid":3306,"name":"Pojok","hash":"f00f19dab9271d0170b5f8381f6fb838"}
+{"id":41522,"kecid":3306,"name":"Pojok","hash":"f00f19dab9271d0170b5f8381f6fb838","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

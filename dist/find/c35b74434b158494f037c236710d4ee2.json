@@ -1,1 +1,1 @@
-{"id":19000,"kecid":1331,"name":"Kota Raya","hash":"c35b74434b158494f037c236710d4ee2"}
+{"id":19000,"kecid":1331,"name":"Kota Raya","hash":"c35b74434b158494f037c236710d4ee2","related":{"kecamatan":{"id":1331,"nama":"Kayu Agung"},"kabupaten":{"id":107,"nama":"Kabupaten Ogan Komering Ilir","ibukota":"Kayu Agung"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

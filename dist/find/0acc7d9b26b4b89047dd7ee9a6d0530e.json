@@ -1,1 +1,1 @@
-{"id":75652,"kecid":6379,"name":"Yaun","hash":"0acc7d9b26b4b89047dd7ee9a6d0530e"}
+{"id":75652,"kecid":6379,"name":"Yaun","hash":"0acc7d9b26b4b89047dd7ee9a6d0530e","related":{"kecamatan":{"id":6379,"nama":"Joerat"},"kabupaten":{"id":473,"nama":"Kabupaten Asmat","ibukota":"Agats"},"provinsi":{"id":33,"nama":"Papua"}}}

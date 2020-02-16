@@ -1,1 +1,1 @@
-{"id":64412,"kecid":5288,"name":"Batu Kota","hash":"53b91ea02d3a78eccd978a80c031140c"}
+{"id":64412,"kecid":5288,"name":"Batu Kota","hash":"53b91ea02d3a78eccd978a80c031140c","related":{"kecamatan":{"id":5288,"nama":"Malalayang"},"kabupaten":{"id":384,"nama":"Kota Manado","ibukota":"Manado"},"provinsi":{"id":25,"nama":"Sulawesi Utara"}}}

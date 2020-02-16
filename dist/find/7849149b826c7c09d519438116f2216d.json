@@ -1,1 +1,1 @@
-{"id":17590,"kecid":1237,"name":"Pelajaran","hash":"7849149b826c7c09d519438116f2216d"}
+{"id":17590,"kecid":1237,"name":"Pelajaran","hash":"7849149b826c7c09d519438116f2216d","related":{"kecamatan":{"id":1237,"nama":"Jarai"},"kabupaten":{"id":101,"nama":"Kabupaten Lahat","ibukota":"Lahat"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

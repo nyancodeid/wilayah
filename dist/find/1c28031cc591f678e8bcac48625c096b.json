@@ -1,1 +1,1 @@
-{"id":10582,"kecid":561,"name":"Pergulaan","hash":"1c28031cc591f678e8bcac48625c096b"}
+{"id":10582,"kecid":561,"name":"Pergulaan","hash":"1c28031cc591f678e8bcac48625c096b","related":{"kecamatan":{"id":561,"nama":"Sei Rampah"},"kabupaten":{"id":43,"nama":"Kabupaten Serdang Bedagai","ibukota":"Sei Rampah"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

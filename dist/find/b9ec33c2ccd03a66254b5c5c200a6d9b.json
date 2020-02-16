@@ -1,1 +1,1 @@
-{"id":17538,"kecid":1234,"name":"Batu Bidung","hash":"b9ec33c2ccd03a66254b5c5c200a6d9b"}
+{"id":17538,"kecid":1234,"name":"Batu Bidung","hash":"b9ec33c2ccd03a66254b5c5c200a6d9b","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

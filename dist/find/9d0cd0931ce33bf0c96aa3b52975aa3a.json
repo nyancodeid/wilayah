@@ -1,1 +1,1 @@
-{"id":34567,"kecid":2786,"name":"Depokrejo","hash":"9d0cd0931ce33bf0c96aa3b52975aa3a"}
+{"id":34567,"kecid":2786,"name":"Depokrejo","hash":"9d0cd0931ce33bf0c96aa3b52975aa3a","related":{"kecamatan":{"id":2786,"nama":"Kebumen"},"kabupaten":{"id":199,"nama":"Kabupaten Kebumen","ibukota":"Kebumen"},"provinsi":{"id":13,"nama":"Jawa Tengah"}}}

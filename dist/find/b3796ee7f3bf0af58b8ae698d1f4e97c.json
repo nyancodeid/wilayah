@@ -1,1 +1,1 @@
-{"id":24416,"kecid":1784,"name":"Metro","hash":"b3796ee7f3bf0af58b8ae698d1f4e97c"}
+{"id":24416,"kecid":1784,"name":"Metro","hash":"b3796ee7f3bf0af58b8ae698d1f4e97c","related":{"kecamatan":{"id":1784,"nama":"Metro Pusat"},"kabupaten":{"id":140,"nama":"Kota Metro","ibukota":"Metro"},"provinsi":{"id":8,"nama":"Lampung"}}}

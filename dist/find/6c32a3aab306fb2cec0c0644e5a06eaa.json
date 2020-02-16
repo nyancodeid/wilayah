@@ -1,1 +1,1 @@
-{"id":17548,"kecid":1234,"name":"Simpang Perigi","hash":"6c32a3aab306fb2cec0c0644e5a06eaa"}
+{"id":17548,"kecid":1234,"name":"Simpang Perigi","hash":"6c32a3aab306fb2cec0c0644e5a06eaa","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

@@ -1,1 +1,1 @@
-{"id":6584,"kecid":301,"name":"Persatuan","hash":"12ad70a76eb95d29f5ee9de529ae1344"}
+{"id":6584,"kecid":301,"name":"Persatuan","hash":"12ad70a76eb95d29f5ee9de529ae1344","related":{"kecamatan":{"id":301,"nama":"Pulau Rakyat"},"kabupaten":{"id":24,"nama":"Kabupaten Asahan","ibukota":"Kisaran"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

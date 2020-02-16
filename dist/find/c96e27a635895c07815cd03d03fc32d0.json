@@ -1,1 +1,1 @@
-{"id":33,"kecid":2,"name":"Cot Lada","hash":"c96e27a635895c07815cd03d03fc32d0"}
+{"id":33,"kecid":2,"name":"Cot Lada","hash":"c96e27a635895c07815cd03d03fc32d0","related":{"kecamatan":{"id":2,"nama":"Bubon"},"kabupaten":{"id":1,"nama":"Kabupaten Aceh Barat","ibukota":"Meulaboh"},"provinsi":{"id":1,"nama":"Aceh"}}}

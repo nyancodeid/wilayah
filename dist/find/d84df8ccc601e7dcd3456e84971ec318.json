@@ -1,1 +1,1 @@
-{"id":7899,"kecid":396,"name":"Kota Pinang","hash":"d84df8ccc601e7dcd3456e84971ec318"}
+{"id":7899,"kecid":396,"name":"Kota Pinang","hash":"d84df8ccc601e7dcd3456e84971ec318","related":{"kecamatan":{"id":396,"nama":"Kota Pinang"},"kabupaten":{"id":31,"nama":"Kabupaten Labuhanbatu Selatan","ibukota":"Kota Pinang"},"provinsi":{"id":2,"nama":"Sumatra Utara"}}}

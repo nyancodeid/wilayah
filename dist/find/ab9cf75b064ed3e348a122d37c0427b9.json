@@ -1,1 +1,1 @@
-{"id":41518,"kecid":3306,"name":"Kaliombo","hash":"ab9cf75b064ed3e348a122d37c0427b9"}
+{"id":41518,"kecid":3306,"name":"Kaliombo","hash":"ab9cf75b064ed3e348a122d37c0427b9","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

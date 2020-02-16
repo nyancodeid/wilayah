@@ -1,1 +1,1 @@
-{"id":26003,"kecid":1999,"name":"Serang","hash":"daeed920e2b7c7a9462d38a77a8a9fc1"}
+{"id":26003,"kecid":1999,"name":"Serang","hash":"daeed920e2b7c7a9462d38a77a8a9fc1","related":{"kecamatan":{"id":1999,"nama":"Cikarang Selatan"},"kabupaten":{"id":163,"nama":"Kabupaten Bekasi","ibukota":"Cikarang"},"provinsi":{"id":12,"nama":"Jawa Barat"}}}

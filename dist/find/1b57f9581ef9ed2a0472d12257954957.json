@@ -1,1 +1,1 @@
-{"id":29680,"kecid":2340,"name":"Simpang","hash":"1b57f9581ef9ed2a0472d12257954957"}
+{"id":29680,"kecid":2340,"name":"Simpang","hash":"1b57f9581ef9ed2a0472d12257954957","related":{"kecamatan":{"id":2340,"nama":"Wanayasa"},"kabupaten":{"id":174,"nama":"Kabupaten Purwakarta","ibukota":"Purwakarta"},"provinsi":{"id":12,"nama":"Jawa Barat"}}}

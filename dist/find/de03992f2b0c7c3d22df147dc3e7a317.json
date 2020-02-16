@@ -1,1 +1,1 @@
-{"id":41526,"kecid":3306,"name":"Tinumpuk","hash":"de03992f2b0c7c3d22df147dc3e7a317"}
+{"id":41526,"kecid":3306,"name":"Tinumpuk","hash":"de03992f2b0c7c3d22df147dc3e7a317","related":{"kecamatan":{"id":3306,"nama":"Purwosari"},"kabupaten":{"id":231,"nama":"Kabupaten Bojonegoro","ibukota":"Bojonegoro"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

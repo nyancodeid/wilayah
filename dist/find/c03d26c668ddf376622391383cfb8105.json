@@ -1,1 +1,1 @@
-{"id":17540,"kecid":1234,"name":"Galang","hash":"c03d26c668ddf376622391383cfb8105"}
+{"id":17540,"kecid":1234,"name":"Galang","hash":"c03d26c668ddf376622391383cfb8105","related":{"kecamatan":{"id":1234,"nama":"Ulu Musi"},"kabupaten":{"id":100,"nama":"Kabupaten Empat Lawang","ibukota":"Tebing Tinggi"},"provinsi":{"id":6,"nama":"Sumatra Selatan"}}}

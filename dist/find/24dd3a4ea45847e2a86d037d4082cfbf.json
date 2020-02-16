@@ -1,1 +1,1 @@
-{"id":1922,"kecid":101,"name":"Bukit","hash":"24dd3a4ea45847e2a86d037d4082cfbf"}
+{"id":1922,"kecid":101,"name":"Bukit","hash":"24dd3a4ea45847e2a86d037d4082cfbf","related":{"kecamatan":{"id":101,"nama":"Kebayakan"},"kabupaten":{"id":8,"nama":"Kabupaten Aceh Tengah","ibukota":"Takengon"},"provinsi":{"id":1,"nama":"Aceh"}}}

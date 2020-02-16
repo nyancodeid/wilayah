@@ -1,1 +1,1 @@
-{"id":23119,"kecid":1677,"name":"Gedung Tataan","hash":"242b26c13dbbdaf4991334a78232816e"}
+{"id":23119,"kecid":1677,"name":"Gedung Tataan","hash":"242b26c13dbbdaf4991334a78232816e","related":{"kecamatan":{"id":1677,"nama":"Gedong Tataan"},"kabupaten":{"id":132,"nama":"Kabupaten Pesawaran","ibukota":"Gedong Tataan"},"provinsi":{"id":8,"nama":"Lampung"}}}

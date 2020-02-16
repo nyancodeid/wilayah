@@ -1,1 +1,1 @@
-{"id":64826,"kecid":5322,"name":"Simpang Satu","hash":"c08e5bd68d8726f9a7b55a9e60fb828f"}
+{"id":64826,"kecid":5322,"name":"Simpang Satu","hash":"c08e5bd68d8726f9a7b55a9e60fb828f","related":{"kecamatan":{"id":5322,"nama":"Simpang Raya"},"kabupaten":{"id":386,"nama":"Kabupaten Banggai","ibukota":"Luwuk"},"provinsi":{"id":26,"nama":"Sulawesi Tengah"}}}

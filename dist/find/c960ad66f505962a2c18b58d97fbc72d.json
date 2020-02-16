@@ -1,1 +1,1 @@
-{"id":62194,"kecid":5078,"name":"Pelabuhan","hash":"c960ad66f505962a2c18b58d97fbc72d"}
+{"id":62194,"kecid":5078,"name":"Pelabuhan","hash":"c960ad66f505962a2c18b58d97fbc72d","related":{"kecamatan":{"id":5078,"nama":"Samarinda Kota"},"kabupaten":{"id":365,"nama":"Kota Samarinda","ibukota":"Samarinda"},"provinsi":{"id":23,"nama":"Kalimantan Timur"}}}

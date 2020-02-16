@@ -1,1 +1,1 @@
-{"id":44667,"kecid":3550,"name":"Bandung","hash":"1e2e3db07ce630c8a27a5c25eb4c2ea6"}
+{"id":44667,"kecid":3550,"name":"Bandung","hash":"1e2e3db07ce630c8a27a5c25eb4c2ea6","related":{"kecamatan":{"id":3550,"nama":"Gedeg"},"kabupaten":{"id":242,"nama":"Kabupaten Mojokerto","ibukota":"Mojokerto"},"provinsi":{"id":15,"nama":"Jawa Timur"}}}

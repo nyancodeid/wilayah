@@ -1,1 +1,1 @@
-{"id":53513,"kecid":4321,"name":"Naas","hash":"967fd086a1a5566001bc57f4aba1a930"}
+{"id":53513,"kecid":4321,"name":"Naas","hash":"967fd086a1a5566001bc57f4aba1a930","related":{"kecamatan":{"id":4321,"nama":"Malaka Barat"},"kabupaten":{"id":299,"nama":"Kabupaten Malaka","ibukota":"Betun"},"provinsi":{"id":19,"nama":"Nusa Tenggara Timur"}}}

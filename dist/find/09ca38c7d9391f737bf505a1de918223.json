@@ -1,1 +1,1 @@
-{"id":704,"kecid":30,"name":"Barueh","hash":"09ca38c7d9391f737bf505a1de918223"}
+{"id":704,"kecid":30,"name":"Barueh","hash":"09ca38c7d9391f737bf505a1de918223","related":{"kecamatan":{"id":30,"nama":"Kota Jantho"},"kabupaten":{"id":3,"nama":"Kabupaten Aceh Besar","ibukota":"Jantho"},"provinsi":{"id":1,"nama":"Aceh"}}}

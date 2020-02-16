@@ -1,1 +1,1 @@
-{"id":2480,"kecid":123,"name":"Semadam Asal","hash":"4a965a58c138a54ea45cfc0cd33b75e4"}
+{"id":2480,"kecid":123,"name":"Semadam Asal","hash":"4a965a58c138a54ea45cfc0cd33b75e4","related":{"kecamatan":{"id":123,"nama":"Semadam"},"kabupaten":{"id":9,"nama":"Kabupaten Aceh Tenggara","ibukota":"Kutacane"},"provinsi":{"id":1,"nama":"Aceh"}}}
