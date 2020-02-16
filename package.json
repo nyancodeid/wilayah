@@ -17,6 +17,8 @@
   "author": "Ryan Aunur Rassyid",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "dotenv-parse-variables": "^0.2.3",
     "fs-extra": "^8.1.0",
     "md5": "^2.2.1",
     "rimraf": "^3.0.1",
