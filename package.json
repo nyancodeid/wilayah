@@ -25,6 +25,6 @@
     "p-limit": "^2.2.2",
     "p-queue": "^6.2.1",
     "rimraf": "^3.0.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
